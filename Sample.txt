@@ -8,3 +8,6 @@ This is the list of Tasks I plan to accomplish by EOD
 1. Learn Git
 
 2. Applications
+
+
+Final TODO List Done.
