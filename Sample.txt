@@ -2,3 +2,9 @@
 This is a sample Program
 
 I've now edited the first Instance
+
+This is the list of Tasks I plan to accomplish by EOD
+
+1. Learn Git
+
+2. Applications
